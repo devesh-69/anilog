@@ -1,0 +1,44 @@
+AniLog — End User License
+Copyright (c) 2026 Devesh Tatkare (https://deveshtatkare.com). All rights reserved.
+
+AniLog is free to use, but it is NOT open source. This repository is published
+only so you can download the app and see what it looks like.
+
+1. WHAT YOU MAY DO
+   You may download the official AniLog app (the APK files in this repository's
+   Releases, or the web app linked from the README) and use it, free of charge,
+   on your own devices for personal, non-commercial use.
+
+2. WHAT YOU MAY NOT DO
+   Without prior written permission from Devesh Tatkare, you may not:
+   a. copy, reproduce or reuse any source code, design, graphics, text or other
+      material in this repository, in whole or in part;
+   b. modify, translate, adapt or create derivative works of AniLog;
+   c. redistribute, re-upload, sell, rent, sublicense or otherwise share the app
+      or its files (including the APKs) anywhere other than this repository;
+   d. reverse engineer, decompile or disassemble the app, except where the law
+      expressly allows it despite this restriction;
+   e. publish the app, or anything based on it, under another name, brand or
+      developer account;
+   f. remove or change any copyright, author or license notice.
+
+3. SOURCE CODE
+   The few files in the `showcase/` folder are a partial excerpt shown for
+   viewing only. They are not a working app and are not licensed for any use.
+   The complete source code is private.
+
+4. OWNERSHIP
+   AniLog and all of its code, design and content remain the exclusive property
+   of Devesh Tatkare. Using the app does not transfer any ownership or rights to
+   you beyond the personal use granted in section 1.
+
+5. NO WARRANTY
+   AniLog is provided "as is", without warranty of any kind. In no event shall
+   the author be liable for any claim, damages or other liability arising from
+   the use of the app.
+
+6. TERMINATION
+   This permission ends automatically if you break any of these terms. You must
+   then stop using the app and delete all copies.
+
+Questions or permission requests: https://deveshtatkare.com
