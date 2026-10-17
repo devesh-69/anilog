@@ -10,7 +10,7 @@ and always know what to watch (or recommend) next.
 [![Built with Flutter](https://img.shields.io/badge/built%20with-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 [![License](https://img.shields.io/badge/license-proprietary-E07A5F?style=flat-square)](LICENSE)
 
-**[⬇️ Download for Android](../../releases/latest)** · **[Open the web app](https://anilog-app.vercel.app)** · [What's new](CHANGELOG.md) · Made by [Devesh Tatkare](https://deveshtatkare.com)
+**[⬇️ Download for Android](../../releases/latest)** · **[Open the web app](https://anilog-app.vercel.app)** · [Website](https://anilogapp.vercel.app) · [What's new](CHANGELOG.md) · Made by [Devesh Tatkare](https://deveshtatkare.com)
 
 <br>
 
