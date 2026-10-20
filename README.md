@@ -10,7 +10,7 @@ and always know what to watch (or recommend) next.
 [![Built with Flutter](https://img.shields.io/badge/built%20with-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 [![License](https://img.shields.io/badge/license-proprietary-E07A5F?style=flat-square)](LICENSE)
 
-**[⬇️ Download for Android](../../releases/latest)** · **[Open the web app](https://anilog-app.vercel.app)** · [Website](https://anilogapp.vercel.app) · [What's new](CHANGELOG.md) · Made by [Devesh Tatkare](https://deveshtatkare.com)
+**[🌐 Website](https://anilogapp.vercel.app)** · **[⬇️ Download for Android](../../releases/latest)** · [Web version](https://anilog-app.vercel.app) · [What's new](CHANGELOG.md) · Made by [Devesh Tatkare](https://deveshtatkare.com)
 
 <br>
 
@@ -159,7 +159,8 @@ to rearrange and remove.
 
 | Platform | How |
 |---|---|
-| 🌐 **Web** | Open **[the web app](https://anilog-app.vercel.app)** in any modern browser |
+| 🌐 **Website** | **[anilogapp.vercel.app](https://anilogapp.vercel.app)**: overview, screenshots and downloads |
+| 💻 **Web version** | Use the app in any modern browser: **[anilog-app.vercel.app](https://anilog-app.vercel.app)** |
 | 🤖 **Android** | Download the APK from the [latest release](../../releases/latest) (pick **arm64** for most phones) |
 | 🍎 **iOS · Desktop** | Coming later |
 
