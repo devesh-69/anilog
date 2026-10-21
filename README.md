@@ -5,7 +5,7 @@
 **Your personal anime journal.** Track what you watch, remember how it made you feel,
 and always know what to watch (or recommend) next.
 
-[![Version](https://img.shields.io/badge/version-1.1.2-1E7FA3?style=flat-square)](CHANGELOG.md)
+[![Version](https://img.shields.io/badge/version-1.1.3-1E7FA3?style=flat-square)](CHANGELOG.md)
 [![Platforms](https://img.shields.io/badge/Android%20%C2%B7%20Web%20%C2%B7%20iOS%20%C2%B7%20Desktop-0E1A20?style=flat-square)](#get-anilog)
 [![Built with Flutter](https://img.shields.io/badge/built%20with-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 [![License](https://img.shields.io/badge/license-proprietary-E07A5F?style=flat-square)](LICENSE)

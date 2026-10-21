@@ -2,6 +2,15 @@
 
 All notable changes to AniLog. Versions follow MAJOR.MINOR.PATCH.
 
+## 1.1.3 — October 2026
+
+Your timeline, on your real watch dates.
+
+- Importing a list now builds your timeline from its watch dates: Started and Completed on the real days
+- Editing an anime's dates moves its timeline moments to the new dates instead of adding new ones
+- New in Settings: Build timeline from watch dates, for a library you already have
+- Large imports stay smooth while the search index updates in the background
+
 ## 1.1.2 — October 2026
 
 Opens on your Library, with nicer anime pages.
