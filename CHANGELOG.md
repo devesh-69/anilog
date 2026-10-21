@@ -2,6 +2,15 @@
 
 All notable changes to AniLog. Versions follow MAJOR.MINOR.PATCH.
 
+## 1.1.2 — October 2026
+
+Opens on your Library, with nicer anime pages.
+
+- AniLog now opens on your Library
+- Anime pages: a taller banner that fades into the page, and long titles no longer run into it
+- Status bar icons stay readable over banners and on every theme
+- Importing a backup no longer adds a "Completed" memory dated today for every anime
+
 ## 1.1.1 — October 2026
 
 Big libraries feel instant again.
