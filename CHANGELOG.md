@@ -2,6 +2,15 @@
 
 All notable changes to AniLog. Versions follow MAJOR.MINOR.PATCH.
 
+## 1.1.1 — October 2026
+
+Big libraries feel instant again.
+
+- Typing in Library search, filtering and editing no longer freeze the app with large libraries
+- Search puts the anime you name first ("our dating story" finds Our Dating Story) and ignores far-off matches
+- Anime that share the same title are no longer hidden from the Library
+- Libraries with tens of thousands of anime load without errors
+
 ## 1.1.0 — October 2026
 
 A fresh new look, a real timeline, and smoother backups.
